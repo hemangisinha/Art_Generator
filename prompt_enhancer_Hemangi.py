@@ -21,6 +21,7 @@ role = st.text_input(
     placeholder="e.g., You are an experienced Python coder."
 )
 
+
 context = st.text_area(
     "📚 Context:",
     placeholder="e.g., I am a beginner learning AI app development."
